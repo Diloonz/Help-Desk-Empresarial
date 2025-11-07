@@ -42,6 +42,3 @@ O aplicativo permite que diferentes usuários gerenciem o ciclo de vida dos serv
 
 *Na terceira imagem é onde se concentra todos os clientes da empresa*
 
-## Próximos Passos / Melhorias Futuras (Opcional)
-* Implementação de dashboard para visualização de métricas.
-* Integração com Power BI para relatórios avançados.
