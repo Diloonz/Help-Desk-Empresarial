@@ -16,8 +16,7 @@ O projeto foi criado para solucionar desafios comuns em empresas do ramo ambient
 
 ## Tecnologias Utilizadas
 * **Microsoft Power Apps:** Desenvolvimento da interface e lógica de negócios low-code.
-* **[Nome da Fonte de Dados, ex: SharePoint Lists, Dataverse, SQL Server]:** Utilizado para armazenamento e recuperação de dados.
-* *(Se usou Power Automate):* **Microsoft Power Automate:** Para automação de fluxos de trabalho específicos (ex: notificações, aprovações).
+* **SharePoint Lists:** Utilizado para armazenamento e recuperação de dados.
 
 ## Como Funciona
 
